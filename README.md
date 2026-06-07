@@ -194,6 +194,15 @@ This project uses the **variational quantum eigensolver (VQE)** paradigm: a para
 
 ---
 
+<img width="1071" height="1665" alt="Screenshot_20260607_161127_Claude" src="https://github.com/user-attachments/assets/dcf2367b-4571-4d27-a6c8-5e41e0464a21" />
+
+<img width="1080" height="1699" alt="Screenshot_20260607_161122_Claude" src="https://github.com/user-attachments/assets/de4fbb56-70ab-43cd-a286-8bb3f79d0742" />
+
+<img width="1075" height="1682" alt="Screenshot_20260607_161048_Claude" src="https://github.com/user-attachments/assets/44016184-37f4-4a4d-8009-c6203545e04b" />
+
+<img width="1074" height="1699" alt="Screenshot_20260607_161040_Claude" src="https://github.com/user-attachments/assets/24d89627-9730-40e6-bbbd-857c0278adda" />
+
+
 ## Licence
 
 MIT — do whatever you want with it.
